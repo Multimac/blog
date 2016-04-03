@@ -2,8 +2,10 @@
 layout: default
 title: Drafts
 permalink: /drafts/
+
 hidden_in:
   - production
+robots: noindex
 ---
 
 <div class="home">
