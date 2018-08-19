@@ -27,3 +27,5 @@ defaults:
       path: ""
     values:
       excerpt_separator: <!--more-->
+
+theme: jekyll-theme-leap-day
